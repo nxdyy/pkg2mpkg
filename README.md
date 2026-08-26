@@ -116,3 +116,11 @@ TEX 纹理文件结构：
 [int32 unkInt0]
 [TEXB容器 + mipmap数据]
 ```
+
+## 下载
+
+直接下载pkg2mpkg.py文件
+
+从网盘下载资助作者😍！！！
+
+[https://1816907939.share.123pan.cn/123pan/7lCyVv-EWEY?pwd=bili#  提取码：bili](https://1816907939.share.123pan.cn/123pan/7lCyVv-EWEY?pwd=bili#)
